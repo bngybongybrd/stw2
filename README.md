@@ -6,7 +6,7 @@ Description: This project is our Microsoft Imagine Cup Junior project which is a
 
 Languages used for this Project: Python, HTML, CSS, SQL and Javascript 
 
-![image](https://github.com/bngybongybrd/stw2/assets/48951196/7bab591d-b42e-4d4c-a1ef-f4a8025c76e5)
+![image](https://github.com/bngybongybrd/stw2/assets/48951196/eac43a75-2b84-4416-a070-de4d27a46827)
 
 Replit Link: https://replit.com/@bngybongybrd/stw2
 
