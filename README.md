@@ -6,7 +6,7 @@ Description: This project is our Microsoft Imagine Cup Junior project which is a
 
 Languages used for this Project: Python, HTML, CSS, SQL and Javascript 
 
-![image](https://github.com/bngybongybrd/stw2/assets/48951196/7e0cb71f-87df-48f2-a8ce-774e2c1f03f5)
+![image](https://github.com/bngybongybrd/stw2/assets/48951196/7bab591d-b42e-4d4c-a1ef-f4a8025c76e5)
 
 Replit Link: https://replit.com/@bngybongybrd/stw2
 
@@ -20,4 +20,8 @@ Credits: https://platform.openai.com/docs/api-reference (Open AI api)
 
 Design considerations:
 - User friendly
-- 
+- Recommendations given by AI should be consistent, and in similar format
+
+Features that should be/needs to be added:
+- Loading screen when api is getting the response
+- Option to allow user to go directly to results page to see past results/recommendation or enter a new input
