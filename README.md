@@ -14,7 +14,7 @@ App link: https://stw2--bngybongybrd.repl.co/
 
 Video Link: 
 
-MsImagine Junior Slides Link: https://docs.google.com/presentation/d/1I_28aptqZXX3VMq69QDF9vnfxHudf_SKuoremIdZCJQ/edit?usp=sharing
+Microsoft Imagine Junior Cup Slides Link: https://docs.google.com/presentation/d/1I_28aptqZXX3VMq69QDF9vnfxHudf_SKuoremIdZCJQ/edit?usp=sharing
 
 Credits: https://platform.openai.com/docs/api-reference (Open AI api)
 
