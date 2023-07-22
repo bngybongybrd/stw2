@@ -14,7 +14,7 @@ Replit Link: https://replit.com/@bngybongybrd/stw2
 
 App link: https://stw2--bngybongybrd.repl.co/ 
 
-Video Link: 
+Video Link: https://youtu.be/OBQ-iXGrFHM
 
 Microsoft Imagine Junior Cup Slides Link: https://docs.google.com/presentation/d/1I_28aptqZXX3VMq69QDF9vnfxHudf_SKuoremIdZCJQ/edit?usp=sharing
 
