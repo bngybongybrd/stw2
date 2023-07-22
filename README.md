@@ -23,7 +23,7 @@ Credits: https://platform.openai.com/docs/api-reference (Open AI api)
 Design considerations:
 - User friendly
 - Recommendations given by AI should be consistent, and in similar format
-- Other consideration are in the google slide
+- Other considerations are in the google slide
 
 Features that should be/needs to be added:
 - Loading screen when api is getting the response
